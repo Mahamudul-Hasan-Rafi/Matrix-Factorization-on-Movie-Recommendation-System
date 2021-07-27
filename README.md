@@ -1,1 +1,1 @@
-# Matrix-Factorization-on-Movie-Recommendation-System
+# Lab Assignment on Matrix Factorization on Netflix Movie Recommendation System
